@@ -1,6 +1,5 @@
 # HS_MJ_metamer_2021
-Data from Sohn &amp; Jazayeri, PNAS (2021)
-In Matlab MAT format
+Data from Sohn &amp; Jazayeri, (2021) in Matlab MAT format
 
 data_RSG is a cell array whose element corresponds to each subject. In each cell/subject, there are 5 sessions (some subjects only completed a subset of 5 sessions).
 Each session is a structure whose fields contain the following ([] denotes size of data matrix).
